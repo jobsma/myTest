@@ -6,5 +6,6 @@ object Other {
     val zhang = "hongli2 "
     
     print("dfgf  d")
+    //fjf
   }
 }
