@@ -4,5 +4,7 @@ object Other {
     print("other")
 
     val zhang = "hongli "
+    
+    print("df")
   }
 }
