@@ -5,6 +5,6 @@ object Other {
 
     val zhang = "hongli "
     
-    print("df")
+    print("dfgf  d")
   }
 }
