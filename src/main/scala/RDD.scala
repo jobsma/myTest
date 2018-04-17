@@ -10,5 +10,6 @@ object RDD {
     sc.parallelize(Array(1,2,4,5)).repartition(1)
 
     val h = 2
+    var j = 5
   }
 }
